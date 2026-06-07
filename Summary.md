@@ -16,7 +16,7 @@ The chapter also addressed many important linguistic problems, an example of whi
 Another issue discussed is the difficulty of calculating the number of speakers of a language. Many people are bilingual or multilingual, making it complicated to determine whether someone should be counted as a first-language speaker, second-language speaker, or both. These complications are especially relevant in the case of English because of its widespread use in international communication and education. 
 The whole section demonstrated the modern position of English which is the result of centuries of historical development, political power, and cultural influence. English is no longer simply the language of England or even native English-speaking countries; it has become a global means of communication used by millions of people worldwide in both native and non-native contexts.
 
-Genetic Classifications of Languages
+## *Genetic Classifications of Languages*
 
 Languages are grouped into families based on shared ancestry, using the metaphor of a family tree with parent languages, sibling languages, and successive branches. English belongs to the Indo-European family, which comprises 430 actively spoken languages and is one of 94 top-level families worldwide. Within Indo-European, English falls under the Germanic branch, which is further divided into West, North, and East Germanic. English itself has passed through five recognized stages: Old English, Middle English, Early Modern English, Modern English, and Contemporary English.
 
