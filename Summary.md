@@ -1,11 +1,11 @@
 # **Chapter 2- The Development of English**
-Introduction
+## *Introduction*
 
 The chapter The Development of English examines both the historical evolution of English and the broader mechanisms of language change. It is explained that studying a language can be approached from two perspectives: synchronic and diachronic. A synchronic study focuses on a language as it exists at a particular moment in time, while a diachronic study examines how a language changes across history. English is one of these languages that has undergone several major historical stages, commonly divided into: Old English, Middle English, Early Modern English, Modern English, Contemporary English. These stages reflect the linguistic transformations that occurred due to historical, social, and political influences. 
 One of the most important events mentioned is the Norman Conquest of 1066, which introduced strong French influence into English vocabulary and contributed to the transition from Old English to Middle English. Similarly other languages are also not static systems but constantly changing entities. Language change occurs because of both: External influences, such as cultural and political developments and internal influences, such as natural grammatical simplification and regularization. An example of external change is the growing preference for gender-neutral vocabulary in English, while an example of internal change is the replacement of irregular verb forms with more regular forms, such as strived replacing strove. 
 The introduction also highlights the global spread of English. Originally limited to England during the Old English period, English eventually developed into an international language spoken across the world. This worldwide expansion became one of the defining characteristics of Contemporary English.
 
-The Current State of the English Language
+## *The Current State of the English Language*
 
 This chapter focuses on the modern global position of English and the difficulties involved in defining and counting languages and their speakers. According to ‘Ethnologue: Languages of the World’, there are approximately 6,900 living languages worldwide. Although many of these languages are spoken by relatively small populations, a limited number of languages dominate internationally. English is among the most widely spoken languages in the world and has become a major global language used for communication in politics, business, education, science, and media. 
 
