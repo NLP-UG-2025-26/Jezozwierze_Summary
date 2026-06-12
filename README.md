@@ -1,1 +1,2 @@
 # Jezozwierze_Summary
+&nbsp;&nbsp;&nbsp;&nbsp;This repository contains a summary of the chapter “The development of English,” which is a part of the book by Charles F. Meyer titled “Introducing English Linguistics.” The summarised chapter centers on the current state of the English language, language classifications, typology, and language changes.
